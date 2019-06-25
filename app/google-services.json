@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1025273173978",
+    "firebase_url": "https://ieee-training.firebaseio.com",
+    "project_id": "ieee-training",
+    "storage_bucket": "ieee-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025273173978:android:175e445620fc9bdb",
+        "android_client_info": {
+          "package_name": "com.magdy.ieeetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025273173978-9g9lik6vka81qaa2c4qp46506k8a4ep7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magdy.ieeetraining",
+            "certificate_hash": "e320d8b443f5c26b5a4e1c3c3237a3c6febc80a3"
+          }
+        },
+        {
+          "client_id": "1025273173978-ephjeffb3s833obvf6lmq7n1h200tnrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz7GDs8cDeX-e8_8FYEVpUMdCRPlxoc50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025273173978-ephjeffb3s833obvf6lmq7n1h200tnrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IEEE Training</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="name">الاسم</string>
+    <string name="password">كلمة السر</string>
+    <string name="confirm_password">تأكيد كلمة السر</string>
+    <string name="register">تسجيل</string>
+    <string name="forget_password_click_here">نسيت كلمة السر؟ اضغط هنا</string>
+    <string name="log_in">دخول</string>
+</resources>
